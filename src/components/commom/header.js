@@ -15,7 +15,9 @@ class Header extends Component {
         >
           <span className="navbar-toggler-icon" />
         </button>
-        
+        <a >
+          CHOOSE CELLS AND PRESS ENTER
+        </a>
       </nav>
     );
   }
