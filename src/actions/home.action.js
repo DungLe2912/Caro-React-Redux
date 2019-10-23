@@ -19,3 +19,5 @@ export const switch_piece = (data) => ({
     type: types.SWITCH_PIECE,
     data
 })
+
+

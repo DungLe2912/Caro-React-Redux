@@ -20,6 +20,7 @@ const main = (state = inital_state, action) => {
     case types.TICK: {
       return {...state, array_board: action.array_new}
     }
+    
     default:
       return state;
   }

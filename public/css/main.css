@@ -30,11 +30,11 @@
   cursor: pointer;
 }
 
-div {
+/* div {
   margin: 0;
   padding: 0;
   height: 40px;
-}
+} */
 .footer {
   text-align: center;
   letter-spacing: 0.6em;
@@ -80,4 +80,12 @@ div {
 }
 .modal-container .modal, .modal-container .modal-backdrop {
   position: absolute;
+}
+
+.login-form{
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+  height: 100%;
 }
